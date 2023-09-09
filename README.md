@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elarabiihab
-- 👀 I’m interested in embedded software
-- 🌱 I’m currently learning embedded systems engineering
+- 👀 I’m interested in Devops
+- 🌱 I’m currently learning Devops engineering
 - 📫 How to reach me elarabi.ihab2001@gmail.com
 
 <!---
